@@ -2,7 +2,7 @@
 
 This is the companion repository to Open Sauced. All data in this repository is a mirror of the data you see on the [opensauced.pizza](https://opensauced.pizza) dashboard.
 
-## How does this work?
+## How does this work? adad
 
 Open Sauced uses this GitHub repository as a database. Issues are what you see on the site as repository goals. When a repository is tracked on [opensauced.pizza](https://opensauced.pizza), an issue is opened in this repository. 
 
